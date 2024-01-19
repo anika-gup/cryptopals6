@@ -12,9 +12,6 @@ import java.io.FileNotFoundException;
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;
 public class Cybersecurity {
-	static int specialNum = 0;
-
-
 	public static void main(String[] args)
 	throws IOException {
 		// TODO Auto-generated method stub
